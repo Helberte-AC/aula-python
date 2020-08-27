@@ -1,2 +1,2 @@
 # aula-python
-Aplica ç
+Aplicação da aula de python
